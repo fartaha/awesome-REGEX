@@ -1,5 +1,5 @@
 # awesome-REGEX
-Awesome regular expression (REGEX) commands
+Awesome regular expression (REGEX) commands anyone must know:
 
 1. **Exact Match**: The most basic form of regex involves matching a sequence of characters. For instance, if you want to match 'Hello World', you can simply use `Hello World` as your regex.
 
